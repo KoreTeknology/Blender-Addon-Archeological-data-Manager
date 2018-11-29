@@ -1,10 +1,11 @@
 # Blender-CSV-Library-Importer-Addon
-Python script for Blender 2.79+
+Python script for <b>Blender 2.79+</b>
 
 Import Library objects with Geo Coordinates and Time Range, from CSV database table.
 
 ![logo](https://github.com/KoreTeknology/Blender-CSV-Library-Importer-Addon/blob/master/media/header_blenderaddon3.jpg)
 
+![Python](https://img.shields.io/badge/python-v3.5+-blue.svg)
 
 ### We are preparing the software package with sample data, please, come back soon ! ###
 
@@ -28,7 +29,7 @@ Blender is a free and open source 3D appication, used in our office to support t
 
 ### Installation ###
 
-> Copy the script in your Blender script folder:
+> Copy the script in your Blender script folder
 
 > Open User Preferences Panel
 
@@ -43,3 +44,18 @@ Blender is a free and open source 3D appication, used in our office to support t
 
 > Press the IMPORT LIBRARY button
 
+
+## Authors
+
+* **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology)
+
+See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
+## License
+
+This project is licensed under the BSD License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Acknowledgments
+
+* This work is dedicated to all blender users
+* Inspiration... Thanks to the Blender Fundation for offering us a great software

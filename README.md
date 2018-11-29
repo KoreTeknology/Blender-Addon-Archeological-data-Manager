@@ -31,27 +31,21 @@ Blender is a free and open source 3D appication, used in our office to support t
 
 ### Installation ###
 
-> Copy the script in your Blender script folder
-
-> Open User Preferences Panel
-
-> Activate the addon... enjoy !
+* **Copy the script in your Blender script folder**
+* **Open User Preferences Panel**
+* **Activate the addon... enjoy !**
 
 
 ### Instructions ###
 
-> Select the .csv database file and the .blend library file
-
-> Choose options and settings
-
-> Press the IMPORT LIBRARY button
+* **Select the .csv database file and the .blend library file**
+* **Choose options and settings**
+* **Press the IMPORT LIBRARY button**
 
 
 ## Authors
 
 * **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 

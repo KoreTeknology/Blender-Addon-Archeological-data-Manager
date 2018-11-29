@@ -5,6 +5,9 @@ Import Library objects with Geo Coordinates and Time Range, from CSV database ta
 
 ![logo](https://github.com/KoreTeknology/Blender-CSV-Library-Importer-Addon/blob/master/media/header_blenderaddon3.jpg)
 
+
+### We are preparing the software package with sample data, please, come back soon ! ###
+
 This Addon script for Blender is a part of ArcheoDataBank III Project.
 Archeo Databank is a Historical Geographic Information System (HGIS), made to facilitate the administration of a <b>Spatial Data, Attribut Data and File Data</b> (SAF) based on History or Chronology timeline , and for publishing cartographic details and research applications.
 

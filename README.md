@@ -3,7 +3,7 @@ Python script for <b>Blender 2.79+</b>
 
 Import Library objects with Geo Coordinates and Time Range, from CSV database table.
 
-![logo](https://github.com/KoreTeknology/Blender-CSV-Library-Importer-Addon/blob/master/media/header_blenderaddon3.jpg)
+![logo](https://github.com/KoreTeknology/Blender-CSV-Library-Importer-Addon/blob/master/media/header_r1.jpg)
 
 ![Python](https://img.shields.io/badge/python-v3.5+-blue.svg)
 ![Python](https://img.shields.io/badge/blender-v2.79+-orange.svg)

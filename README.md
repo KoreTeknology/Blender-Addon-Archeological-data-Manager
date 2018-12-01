@@ -34,6 +34,7 @@ Blender is a free and open source 3D appication, used in our office to support t
 * **Add DB specific group**: Add objects to new/existing group
 * **Make parent to empty**: Assign object and text to empty at DB position
 
+![logo](https://github.com/KoreTeknology/Blender-CSV-Library-Importer-Addon/blob/master/media/database.jpg)
 
 **Goals (V1.5):**
 * **Features**: Add more columns and db options

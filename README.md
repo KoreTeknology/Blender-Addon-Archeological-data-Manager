@@ -36,6 +36,10 @@ Blender is a free and open source 3D appication, used in our office to support t
 
 ![logo](https://github.com/KoreTeknology/Blender-CSV-Library-Importer-Addon/blob/master/media/database.jpg)
 
+* **View Console log**: Follow real time processing and check data structure
+
+![logo](https://github.com/KoreTeknology/Blender-CSV-Library-Importer-Addon/blob/master/media/console.jpg)
+
 **Goals (V1.5):**
 * **Features**: Add more columns and db options
 * **UI**: Add invisible operators as optional config

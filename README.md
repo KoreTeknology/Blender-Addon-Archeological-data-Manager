@@ -15,6 +15,8 @@ Archeo Databank is a Historical Geographic Information System (HGIS), made to fa
 
 ![logo](https://github.com/KoreTeknology/Blender-CSV-Library-Importer-Addon/blob/master/media/release1.jpg)
 
+![logo](https://github.com/KoreTeknology/Blender-CSV-Library-Importer-Addon/blob/master/media/install2.jpg)
+
 # About this addon
 
 **Last Stable Release (V0.8b):**

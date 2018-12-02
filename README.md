@@ -40,6 +40,15 @@ Blender is a free and open source 3D appication, used in our office to support t
 
 ![logo](https://github.com/KoreTeknology/Blender-CSV-Library-Importer-Addon/blob/master/media/console.jpg)
 
+ **Animation Hide/Show Automation**: Recreate historical view and process
+
+![logo](https://github.com/KoreTeknology/Blender-CSV-Library-Importer-Addon/blob/master/media/timeline.jpg)
+
+**Auto Assign to groups and parents**: The created EMPTY object is the parent, it can manipulate the whole set of associated objects.
+
+![logo](https://github.com/KoreTeknology/Blender-CSV-Library-Importer-Addon/blob/master/media/groups.jpg)
+
+
 **Goals (V1.5):**
 * **Features**: Add more columns and db options
 * **UI**: Add invisible operators as optional config

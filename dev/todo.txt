@@ -1,0 +1,34 @@
+CSV Library Importer Addon for Blender 2.79+
+######################################################
+v 0.9b- # DONE ! 
+	- select csv file path (database) = OK
+	- select blend file path (library) = OK
+	- button load = OK
+	- add other details based on csv data (name, color, ...) = OK
+	- create group 'database group' and assign new objects to it = OK
+	- create an empty as marker for position, assign object and text-object to it as childs = OK
+
+######################################################
+TODO for 1.0
+
+	Development Priority 1
+		- return to frame one after loading
+		- link OR Append option toggle	
+		- option for replace/do nothing objects
+
+	Development Priority 2
+		- switch for group creation, new name and assign or use existing or import
+		- xyz columns setup: active/asign
+		- select import from line _ to line _
+		- delimiter type selection [, by default]
+		- only empties / empties and objects
+		- option for terminal, if is open = do nothing, otherwise, open
+		- check if object exist, if exist, update or do nothing
+
+	Development Priority 3
+		- add on-screen console output with size,color,show options
+		- add object listing from library and import selection
+		- add import selection options, link, ...
+
+
+

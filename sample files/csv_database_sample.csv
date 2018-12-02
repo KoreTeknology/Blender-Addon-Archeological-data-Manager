@@ -1,0 +1,4 @@
+ID,name,lon,lat,elev,type,shape,fs,fe
+0,Project A_E1_obj1,-0.3629,1.3718,-0.9248,Ceramica,Olla,50,250
+1,Project A_E1_obj2,0.6917,2.6859,-0.6984,Piedra Verde,Cuenta,100,250
+2,Project B_E1_obj3,-0.3523,3.9177,-0.1467,Madera,Tapon,200,250

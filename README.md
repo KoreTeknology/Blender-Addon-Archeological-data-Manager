@@ -44,9 +44,13 @@ Blender is a free and open source 3D appication, used in our office to support t
 
 ![logo](https://github.com/KoreTeknology/Blender-CSV-Library-Importer-Addon/blob/master/media/timeline.jpg)
 
-**Auto Assign to groups and parents**: The created EMPTY object is the parent, it can manipulate the whole set of associated objects.
+**Auto Assign to groups and parents**: The created EMPTY object is the parent of associated objects.
 
 ![logo](https://github.com/KoreTeknology/Blender-CSV-Library-Importer-Addon/blob/master/media/groups.jpg)
+
+**3D Reconstruction process**: x-ray visualization and objects selection and navigation.
+
+![logo](https://github.com/KoreTeknology/Blender-CSV-Library-Importer-Addon/blob/master/media/visual.jpg)
 
 
 **Goals (V1.5):**

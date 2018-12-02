@@ -60,7 +60,6 @@ Blender is a free and open source 3D appication, used in our office to support t
 
 ![logo](https://github.com/KoreTeknology/Blender-CSV-Library-Importer-Addon/blob/master/media/release2.jpg)
 
-
 ***
 
 ### Installation ###
@@ -72,14 +71,16 @@ Blender is a free and open source 3D appication, used in our office to support t
 
 ### Instructions ###
 
-* **Select** the .csv database file and the .blend library file
-* **Choose** options and settings
-* **Press** the IMPORT LIBRARY button
+* **Open** the Demo .blend file, run the script in the TEXT window !
+* **Select** the .csv database file and the .blend library file provided in /demo folder
+* **Press** the IMPORT LIBRARY button,... et voila !
 
 
 ## Authors
 
 * **Uriel Deveaud** - *Initial work* - [Kore Teknology](https://github.com/KoreTeknology)
+
+Please, feel free to contact me, and/or discuss further development or ideas for this plugin, thanks ;)
 
 ## License
 

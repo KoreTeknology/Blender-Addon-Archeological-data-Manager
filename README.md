@@ -1,7 +1,5 @@
 # Blender-CSV-Library-Importer-Addon
-Python script for <b>Blender 2.79+</b>
-
-Import Library objects with Geo Coordinates and Time Range, from CSV database table.
+Python script for <b>Blender 2.79+</b> Import Library objects with Coordinates and TimeRange, from CSV database table.
 
 ![logo](https://github.com/KoreTeknology/Blender-CSV-Library-Importer-Addon/blob/master/media/header_r1.jpg)
 

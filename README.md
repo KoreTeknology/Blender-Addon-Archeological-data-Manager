@@ -16,7 +16,7 @@ Archeo Databank is a Historical Geographic Information System (HGIS), made to fa
 
 # About this addon
 
-**Last Stable Release (V0.8b):**
+**Last Stable Release (V1.0.0):**
 This work is intended to provide a dedicated support for open source GIS mapping solution. 
 It is also a cross-level and multi-contextual data factory and archive databank for research and educational contents.
 

@@ -1,0 +1,29 @@
+TODO.txt (Future development)
+blender 2.8 Addon - Python script
+""""""""""""""""""""""""""""""""""
+
+IMPORTANT !!!!
+- REFACTOR ALL > in folders
+- redo Ui for chrono designer
+- complete help section design
+- fix coordinates offset
+- add grid presets system
+- object data, add data
+- fix Data exporter complete
+- fix importer options
+
+NO IMPORTANT
+- load icons from icons.py ;)
+- fix toolbar + icons
+- fix cameras panels > see render script multicam manager
+
+NEXT RELEASE ?
+--------------
+- floating panel ?
+- database objects listing before import/export !
+- preference folder for project 
+- add projection system, wgs84, etc...
+- compat with blendGIS ?!
+- panel assets manager
+- parametric assets, redo
+

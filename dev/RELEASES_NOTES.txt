@@ -1,0 +1,34 @@
+Archeology Addon for Blender 2.8 - by Uriel Deveaud
+# #######################################################
+A Free Python Script for Professional Archeologists
+Downloads: https://github.com/KoreTeknology/Blender-Addon-Archeological-data-Manager
+
+
+# #######################################################
+RELEASES HISTORY
+
+---------------------------------------------------------
+Release Alpha 08 > Archeology Addon for Blender 2.8
+- Add chronology designer
+- Add map projection sys.
+- add coordinates types and sys.
+- add custom icons :)
+
+---------------------------------------------------------
+Release Alpha 07 > Archeology Addon for Blender 2.8
+- Add preferences panel
+- clean all files
+- Add real demo files
+- complete db configuration
+- add preset features in menu
+- add help section from text files (for traduction)
+
+---------------------------------------------------------
+Release Alpha 06 > Archeology Addon for Blender 2.8
+- Add DB importer, csv + blend
+- Add object edit features in dedicated panel
+
+---------------------------------------------------------
+Release Alpha 05 > Archeology Addon for Blender 2.8
+- Add DB importer, csv + blend
+- Add object edit features in dedicated panel
